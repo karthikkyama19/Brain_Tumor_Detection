@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and Editor settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Python package files
+*.egg
+*.egg-info
+dist/
+build/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FastAPI specific
+*.sqlite3
